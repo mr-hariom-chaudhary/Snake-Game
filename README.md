@@ -18,9 +18,7 @@ This project is a simple implementation of the classic Snake game using the Pyga
 
 i. Clone or download the repository to your local machine.
 
-ii. Install the required dependencies using pip:
-
-iii. pip install pygame
+ii. Install the required dependencies using pip :  pip install pygame
 
 
 # How to Play
