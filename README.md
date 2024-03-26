@@ -9,18 +9,18 @@ This project is a simple implementation of the classic Snake game using the Pyga
 
 # Prerequisites
 
-Python 3.x
+1. Python 3.x
 
-Pygame library
+2. Pygame library
 
 
 # Installation
 
-Clone or download the repository to your local machine.
+i. Clone or download the repository to your local machine.
 
-Install the required dependencies using pip:
+ii. Install the required dependencies using pip:
 
-pip install pygame
+iii. pip install pygame
 
 
 # How to Play
@@ -40,20 +40,20 @@ pip install pygame
 
 # Features
 
-Snake grows longer upon eating food.
+i. Snake grows longer upon eating food.
 
-Score counter to track points gained by eating food.
+ii. Score counter to track points gained by eating food.
 
-Game over screen with the option to play again.
+iii. Game over screen with the option to play again.
 
 
 # Files Included
 
-snake_game.py: Main Python script containing the game logic.
+1. snake_game.py: Main Python script containing the game logic.
 
-assets/: Directory containing game assets (images, sounds, etc.).
+2. Containing game assets (images, sounds, etc.).
 
-README.md: Markdown file providing information about the project.
+3. README.md: Markdown file providing information about the project.
 
 
 # Acknowledgments
